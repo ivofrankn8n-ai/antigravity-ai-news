@@ -40,6 +40,8 @@
 **/*.lnk
 
 # Project-specific generated files
+.env
+tmp/
 naan/.env
 naan/tmp/
 naan/*.csv
