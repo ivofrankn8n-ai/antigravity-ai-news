@@ -742,15 +742,15 @@ function filterArticles() {
       filterArticles();
     }
     
-    // Configuration from environment variables (set in Vercel dashboard)
+    // Configuration - uses env.js injected by Vercel build, or falls back to defaults
     const CONFIG = {
       supabase: {
-        url: window.ENV?.SUPABASE_URL || '',
-        key: window.ENV?.SUPABASE_ANON_KEY || ''
+        url: window.ENV?.SUPABASE_URL || 'SUPABASE_URL_PLACEHOLDER',
+        key: window.ENV?.SUPABASE_ANON_KEY || 'SUPABASE_KEY_PLACEHOLDER'
       },
       ai: {
         provider: 'groq',
-        apiKey: window.ENV?.GROQ_API_KEY || '',
+        apiKey: window.ENV?.GROQ_API_KEY || 'GROQ_KEY_PLACEHOLDER',
         model: 'llama-3.3-70b-versatile'
       }
     };
