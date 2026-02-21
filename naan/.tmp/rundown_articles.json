@@ -1,0 +1,2492 @@
+[
+  {
+    "id": "95ada532-af00-413a-95b7-d322853a2788",
+    "web_title": "The handshake refusal heard around the AI world",
+    "web_subtitle": "PLUS: Google's Gemini 3.1 Pro doubles up on reasoning",
+    "slug": "the-handshake-refusal-heard-around-the-ai-world",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/aa1575dc-29f4-44f9-9d52-6faadd32ea4e/samdario1.jpg?t=1771543693",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-20T10:00:11.748Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-19T15:26:15Z",
+    "updated_at": "2026-02-20T11:03:05Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "70990e1c-31f9-49d7-9c7f-4ebf5d07e332",
+    "web_title": "Google brings AI music to the masses",
+    "web_subtitle": "PLUS: Turn product photos into scroll-stopping video content",
+    "slug": "google-brings-ai-music-to-the-masses",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/57f8a9c2-572d-493f-aa17-7fe2c0c310cc/lyria3.jpg?t=1771459675",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-19T10:00:11.693Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-18T17:22:30Z",
+    "updated_at": "2026-02-19T11:02:26Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "f3731831-798e-4754-a139-24b0bf0df922",
+    "web_title": "Anthropic's mid-tier model punches up",
+    "web_subtitle": "PLUS: Create a custom royalty-free jingle in 30 seconds",
+    "slug": "anthropics-mid-tier-model-punches-up",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/8d2c2c28-281c-493d-b336-d3b1bca924ef/sonnetcomputer.jpg?t=1771369813",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-18T10:00:12.235Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-17T17:38:55Z",
+    "updated_at": "2026-02-18T11:02:40Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "d186db02-6d32-4eb9-b5e5-f655ecf5c8a6",
+    "web_title": "Anthropic-Pentagon AI feud escalates",
+    "web_subtitle": "PLUS: Turn a YouTube thumbnail into 5 different social posts",
+    "slug": "anthropic-pentagon-ai-feud-escalates",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7269b698-e32e-4edd-b844-f6f2de7a94a0/Refined_Color_Tone.png?t=1771321977",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-17T11:00:09.530Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-17T02:33:11Z",
+    "updated_at": "2026-02-17T11:01:28Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "f02c5efc-4717-458d-95f4-33751ab74970",
+    "web_title": "AI's new physics discovery",
+    "web_subtitle": "PLUS: ByteDance continues frontier push with Seed 2.0 launch",
+    "slug": "ais-new-physics-discovery",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/46653a86-5aef-41f6-8b8d-d7166e263f31/Robotic_Einstein_Clean_Tongue.png?t=1771187853",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-16T10:00:08.260Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-15T16:02:02Z",
+    "updated_at": "2026-02-16T11:02:04Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "9cdf7ce7-e829-47e7-a9c1-6da750d78a25",
+    "web_title": "Google's upgrade breaks reasoning barriers",
+    "web_subtitle": "PLUS: How to generate a TV commercial with AI",
+    "slug": "googles-upgrade-breaks-reasoning-barriers",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f6c44368-675a-425a-ab3e-1c958303dbac/deepthink.jpg?t=1770935957",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-13T10:00:09.642Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-12T18:08:56Z",
+    "updated_at": "2026-02-13T11:03:00Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "5ffdc39b-f46f-45bb-bd3d-a066b2351b09",
+    "web_title": "xAI's next phase unleashed",
+    "web_subtitle": "PLUS: Turn SOP docs into talking-head training videos",
+    "slug": "xai-s-next-phase-unleashed",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c49cba46-2ead-4e03-b6d9-c06d97e4804a/Upscaled_Image.png?t=1770884495",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-12T11:00:09.110Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-12T02:35:24Z",
+    "updated_at": "2026-02-12T11:01:31Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "92e00c4e-9039-43ee-9196-27d12e5d77e4",
+    "web_title": "xAI's co-founder exodus continues",
+    "web_subtitle": "PLUS: Improve Claude Code with  the \u201cInsights\u201d feature",
+    "slug": "xai-co-founder-exodus-continues",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4186664b-5a09-45cf-ae54-96b2576dd720/tonywu.jpg?t=1770762119",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-11T11:00:09.786Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-10T16:31:25Z",
+    "updated_at": "2026-02-11T11:01:39Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "85bab48b-dd44-4cea-8590-8a6707988968",
+    "web_title": "ByteDance stuns the AI video world",
+    "web_subtitle": "PLUS: Build an AI-powered sales objection handler",
+    "slug": "bytedance-stuns-the-ai-video-world",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a7027f07-190e-49c6-a0b5-da8d9d55f4a2/seedream20.jpg?t=1770678496",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-10T10:00:09.728Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-09T16:06:18Z",
+    "updated_at": "2026-02-10T11:02:14Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "70ba2144-2eba-472e-9b9c-084383f06ffe",
+    "web_title": "AI ads steal the show at Super Bowl LX",
+    "web_subtitle": "PLUS: Build custom lead widgets for your site without coding",
+    "slug": "ai-ads-steal-the-show-at-super-bowl-lx",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/93c6e496-d385-4126-9515-d689ccee1b47/svedka.jpg?t=1770580949",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-09T10:00:10.236Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-08T15:52:06Z",
+    "updated_at": "2026-02-09T11:02:11Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "fdd2840c-1965-47f4-bf29-ad823bf29ae7",
+    "web_title": "OpenAI, Anthropic fight on the frontier",
+    "web_subtitle": "PLUS: Cut down reporting times with Claude in Excel",
+    "slug": "openai-anthropic-fight-on-the-frontier",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4b43908f-18f5-4f1c-ab32-619ad9ccdcd3/6e29759b50e8b3a8363b38b1f573d854df968671-3840x2160.jpg?t=1770333555",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-06T10:00:09.631Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-05T18:11:20Z",
+    "updated_at": "2026-02-06T11:06:11Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "f38dbb61-55b2-44eb-a95c-64f174056fa6",
+    "web_title": "Anthropic\u2019s ad-free campaign takes aim at OpenAI",
+    "web_subtitle": "PLUS: Set up a coordinated coding team with the Codex App",
+    "slug": "anthropics-ad-free-campaign-takes-aim-at-openai",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/403cd88c-1513-4ca1-b242-c78c6d31271e/adsclaude.jpg?t=1770244777",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-05T10:00:12.062Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-04T17:43:08Z",
+    "updated_at": "2026-02-05T11:06:11Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "97054147-4169-4ef8-b1d8-d11bb013ae28",
+    "web_title": "Sam Altman\u2019s OpenAI succession plan",
+    "web_subtitle": "PLUS: Build a \"brand twin\" that writes in your exact voice",
+    "slug": "sam-altmans-openai-succession-plan",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/050bdd77-5447-4eec-8464-f1ce1e73b39f/1770159130973.png?t=1770159510",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-04T11:00:10.169Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-03T16:40:36Z",
+    "updated_at": "2026-02-04T11:01:35Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "9440194f-3fee-4989-a7b1-fa24ef8c0f5e",
+    "web_title": "xAI joins SpaceX in mega-merger",
+    "web_subtitle": "PLUS: OpenAI launches Codex App as \u201ccommand center\u201d for agents",
+    "slug": "xai-joins-spacex-in-mega-merger",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c6968ff7-a66e-4956-9ec9-cc060ac786f0/1770074164289.png?t=1770075471",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-03T10:00:09.336Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-02T15:25:13Z",
+    "updated_at": "2026-02-03T11:06:12Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "53211c49-d369-46d7-86f1-03ce8af84ded",
+    "web_title": "AI agents get their own social network",
+    "web_subtitle": "PLUS: A Claude Cowork system for video clipping and editing",
+    "slug": "ai-agents-get-their-own-social-network",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/faf4c407-1dac-4e49-81e5-657714e67e13/moltbook.jpg?t=1769985314",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-02-02T10:00:14.828Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-02-01T15:49:44Z",
+    "updated_at": "2026-02-02T11:06:15Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "bb2fac27-74e8-48f1-8e3b-4f7e9ea9ce60",
+    "web_title": "xAI's Grok Imagine climbs the leaderboards",
+    "web_subtitle": "PLUS: Build a competitor database with Claude Cowork",
+    "slug": "xais-grok-imagine-climbs-the-leaderboards",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9055e8ec-6396-4240-af16-aa79200edbe4/imagineleaderboard.jpg?t=1769738338",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-30T10:00:12.666Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-29T17:07:50Z",
+    "updated_at": "2026-01-30T11:06:24Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "ef92ae1b-fc53-4a58-8bee-636bb04b2455",
+    "web_title": "Chrome gets agentic AI upgrade",
+    "web_subtitle": "PLUS: Moltbot (Clawdbot) installation guide & how to use it",
+    "slug": "chrome-gets-agentic-ai-upgrade",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/644e72ad-5c7a-4076-998e-b4c63b1a1a42/autobrowse.jpg?t=1769640969",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-29T10:00:30.811Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-28T19:00:19Z",
+    "updated_at": "2026-01-29T14:29:30Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "b02a2f58-8eef-466c-8ec4-792f86355fda",
+    "web_title": "Viral AI agent molts past trademark trouble",
+    "web_subtitle": "PLUS: Moonshot\u2019s K2.5 open-source model rivals frontier labs",
+    "slug": "viral-ai-agent-molts-past-trademark-trouble",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/a710fa6a-e058-4410-8b55-ab6bbca4453a/lobster.jpg?t=1769552661",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-28T10:00:24.606Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-27T17:31:37Z",
+    "updated_at": "2026-01-28T11:06:18Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "75dc7b80-372e-40db-96fb-7f819354c505",
+    "web_title": "Anthropic CEO confronts AI's dangers",
+    "web_subtitle": "PLUS: Build your own design system for AI",
+    "slug": "anthropic-ceo-confronts-ais-dangers",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/4381c08d-d62c-4661-9521-5015cf5505d8/1769465228772.png?t=1769469731",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-27T10:00:23.148Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-26T19:36:47Z",
+    "updated_at": "2026-01-27T11:06:29Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "243c60e8-5009-4407-a321-bbf50b242c08",
+    "web_title": "Claude for Excel opens the gates",
+    "web_subtitle": "PLUS: Create ads and marketing videos in minutes with Remotion",
+    "slug": "claude-for-excel-opens-the-gates",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9397540-5a95-4776-b3a9-51a57b6b415b/claudeexcel.jpg?t=1769378252",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-26T10:00:25.098Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-25T16:21:19Z",
+    "updated_at": "2026-01-26T11:06:25Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "4843d8fd-e1d5-4058-af87-d1376655e891",
+    "web_title": "Inside the Thinking Machines meltdown",
+    "web_subtitle": "PLUS: Learn any subject with custom NotebookLM podcasts",
+    "slug": "inside-the-thinking-machines-meltdown",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/9e7a8d63-fe77-4377-80c6-863a512ca4eb/mirasambarrett.jpg?t=1769126944",
+    "audience": "free",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-23T10:00:14.411Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-22T17:44:34Z",
+    "updated_at": "2026-01-23T11:07:18Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "e47d6fe9-34dc-4368-be5c-13472a3bbb52",
+    "web_title": "Anthropic writes Claude's Constitution",
+    "web_subtitle": "PLUS: Make Claude an expert at anything with Skills repo",
+    "slug": "anthropic-writes-claudes-constitution",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/37f813f4-9a13-459c-8185-cd79fa4f7729/Robot_with_Starburst_Pin_Only.png?t=1769044176",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-22T10:01:27.815Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-21T17:21:49Z",
+    "updated_at": "2026-01-22T11:07:17Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "54974b3f-8558-45b9-957b-13048d8c4f97",
+    "web_title": "AI takes center stage at Davos",
+    "web_subtitle": "PLUS: Get better AI outputs using a multiple choice technique",
+    "slug": "ai-takes-center-stage-at-davos",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/23b1cc41-5583-47cc-ad85-45cbeb7b05ff/davos2026.jpg?t=1768946978",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-21T10:00:17.779Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-20T16:53:37Z",
+    "updated_at": "2026-01-21T11:06:28Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "919cf002-4aea-4a29-9d5c-c2c726a0a5f5",
+    "web_title": "\ud83e\uddd1\u200d\ud83d\udcbb Claude Code sparks 'selfware' era",
+    "web_subtitle": "PLUS: Optimize prompting with this Markdown strategy",
+    "slug": "claude-code-sparks-selfware-era",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/dae2680d-92b9-4aef-ac45-1cc0c05357a9/claudecode-.jpg?t=1768868964",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-20T10:00:19.706Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-19T19:09:26Z",
+    "updated_at": "2026-01-20T11:06:07Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "fdf87b93-46c1-4941-8643-3e72656d0218",
+    "web_title": "Ads are officially coming to ChatGPT",
+    "web_subtitle": "PLUS: Musk, OpenAI trade (more) public blows ahead of trial",
+    "slug": "ads-are-officially-coming-to-chatgpt",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3739dbfe-721d-40a8-a232-b5fb163417c8/adsopenai.jpg?t=1768771549",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-19T11:00:17.495Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-18T16:28:45Z",
+    "updated_at": "2026-01-19T11:01:43Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "4cccc0af-9058-403c-97f5-f91cfb77df13",
+    "web_title": "Murati's co-founders return to OpenAI",
+    "web_subtitle": "PLUS: Run parallel media tasks with Claude Cowork",
+    "slug": "muratis-co-founders-return-to-openai",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/5e66adc1-f3a0-49f4-81f0-d2e168487187/tmloai.jpg?t=1768514734",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-16T10:00:11.163Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-15T17:03:53Z",
+    "updated_at": "2026-01-16T11:06:22Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "8517f78f-8ad2-4414-8a3f-770f3ccf83d9",
+    "web_title": "Gemini's \u2018Personal Intelligence\u2019 upgrade",
+    "web_subtitle": "PLUS: The best and worst of Google\u2019s Gemini in Gmail features",
+    "slug": "geminis-personal-intelligence-upgrade",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/693e8cde-29d3-4780-aeb4-426f7988c7b4/geminipersonalized.jpg?t=1768429557",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-15T10:00:18.591Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-14T17:56:50Z",
+    "updated_at": "2026-01-15T11:06:16Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "0be32542-e82d-4dc2-8d6f-183005b58e36",
+    "web_title": "Meta's massive AI compute push ",
+    "web_subtitle": "PLUS: Never lose vibe coding progress again with Git",
+    "slug": "metas-massive-ai-compute-push",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d9563ee3-c33a-4a6d-b2ca-92dca6e73c25/1768342778919.png?t=1768344921",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-14T10:00:32.115Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-13T18:20:55Z",
+    "updated_at": "2026-01-14T11:06:29Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "145d83f5-c1b5-485a-b57c-1f461c89af5f",
+    "web_title": "Apple, Google go official for Siri revamp",
+    "web_subtitle": "PLUS: Exploring Perplexity\u2019s Comet browser",
+    "slug": "apple-google-go-official-for-siri-revamp",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/7054eb2d-6639-4f6d-a483-a059ec0c6144/Apple-Google-Gemini-Partnership-Clean.png?t=1768260105",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-13T10:00:16.501Z",
+    "estimated_reading_time": 12,
+    "estimated_reading_time_display": "12 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-12T16:55:45Z",
+    "updated_at": "2026-01-13T11:06:14Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  },
+  {
+    "id": "5c3939d6-221f-4725-85aa-8a9c95ff92d8",
+    "web_title": "Anthropic blocks xAI's Claude access",
+    "web_subtitle": "PLUS: Find dozens of free AI tools with Google Labs",
+    "slug": "anthropic-pulls-plug-on-xais-claude-access",
+    "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/d023cb2b-1871-4126-8e98-395ce91ae733/S9gTp1zuJSTEe6RK.jpeg?t=1768169362",
+    "audience": "both",
+    "is_premium": false,
+    "override_scheduled_at": "2026-01-12T17:31:11.361Z",
+    "estimated_reading_time": 11,
+    "estimated_reading_time_display": "11 minutes",
+    "comments_state": "default",
+    "created_at": "2026-01-11T18:02:40Z",
+    "updated_at": "2026-01-12T17:32:28Z",
+    "authors": [
+      {
+        "id": "890526cb-8870-4db2-9c4b-e3e056630f01",
+        "name": "Zach Mink",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/zheadshotquare.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/thumb_zheadshotquare.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/890526cb-8870-4db2-9c4b-e3e056630f01/landscape_zheadshotquare.jpg"
+          }
+        }
+      },
+      {
+        "id": "499b96c8-ed24-4e52-9745-5d309634f0d4",
+        "name": "Joey Liu",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/thumb_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/499b96c8-ed24-4e52-9745-5d309634f0d4/landscape_9A5C12B1-3278-4C95-96CD-0A743DA351C5_1_201_a.jpeg"
+          }
+        }
+      },
+      {
+        "id": "4e458ac6-5b2d-4899-bb53-f7c818244c6d",
+        "name": "Rowan Cheung",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/RowanCheung_HeadshotSquare.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/thumb_RowanCheung_HeadshotSquare.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/4e458ac6-5b2d-4899-bb53-f7c818244c6d/landscape_RowanCheung_HeadshotSquare.png"
+          }
+        }
+      },
+      {
+        "id": "7ad64432-8ae8-4c9e-8de9-742c1727366d",
+        "name": "Shubham Sharma",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/shubham.png",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/thumb_shubham.png"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/7ad64432-8ae8-4c9e-8de9-742c1727366d/landscape_shubham.png"
+          }
+        }
+      },
+      {
+        "id": "fb0c1ed7-4783-47fa-8250-f0812170ba07",
+        "name": "Jennifer Mossalgue",
+        "profile_picture": {
+          "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/jen.jpg",
+          "thumb": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/thumb_jen.jpg"
+          },
+          "landscape": {
+            "url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/user/profile_picture/fb0c1ed7-4783-47fa-8250-f0812170ba07/landscape_jen.jpg"
+          }
+        }
+      }
+    ],
+    "content_tags": []
+  }
+]

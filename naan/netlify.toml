@@ -1,0 +1,8 @@
+[build]
+  command = "echo 'No build needed for static HTML'"
+  publish = "."
+
+[[redirects]]
+  from = "/*"
+  to = "/dashboard.html"
+  status = 200

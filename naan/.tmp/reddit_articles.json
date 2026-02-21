@@ -1,0 +1,828 @@
+[
+  {
+    "id": "1raar9l",
+    "title": "Unique idea that may be the future of Social media",
+    "subtitle": "Tiktok but with AI-generated interactive mini apps. Hear me out...\n\nSomething I've been thinking about lately. Right now the most addictive form of social media is short videos. But what's actually mo",
+    "url": "https://reddit.com/r/artificial/comments/1raar9l/unique_idea_that_may_be_the_future_of_social_media/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T23:12:42+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 1
+  },
+  {
+    "id": "1ra8hz9",
+    "title": "Does anyone know which program/setting allows the use of these AI voice models?",
+    "subtitle": "There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. \n\nI aske",
+    "url": "https://reddit.com/r/artificial/comments/1ra8hz9/does_anyone_know_which_programsetting_allows_the/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T21:43:31+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 2,
+    "comments": 1
+  },
+  {
+    "id": "1ra81v9",
+    "title": "Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI",
+    "subtitle": "We\u2019ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). \n\nDuring this time we\u2019ve tested multiple TTS providers. ",
+    "url": "https://reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T21:26:04+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 0
+  },
+  {
+    "id": "1ra9s7i",
+    "title": "I am getting really tired of GPT. Plan cancelled till they proof a real functionality",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra9s7i/i_am_getting_really_tired_of_gpt_plan_cancelled/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T22:33:56+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 0,
+    "comments": 10
+  },
+  {
+    "id": "1ra8k1m",
+    "title": "Sam Altman being Crab People feels like the appropriate corollary to Zuckerberg being a robot",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra8k1m/sam_altman_being_crab_people_feels_like_the/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T21:45:49+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 16,
+    "comments": 5
+  },
+  {
+    "id": "1ra8gsx",
+    "title": "Issue with memory?",
+    "subtitle": "I am currently subscribed to ChatGPT Go. However, the \"memory\" feature keeps suddenly turning itself off for no apparent reason. I can't keep the memory feature enabled as when I enable it, it disable",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra8gsx/issue_with_memory/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T21:42:12+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 11,
+    "comments": 10
+  },
+  {
+    "id": "1ra7xjp",
+    "title": "Chess as a Hallucination Test?",
+    "subtitle": "See for yourself this youtube video: [CHATBOT CHESS CHAMPIONSHIP IS BACK!!!!!!](https://www.youtube.com/watch?v=7S8QPpeCyD8) ...not only is it funny, but in all seriousness, I think it\u2019s a pretty good",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra7xjp/chess_as_a_hallucination_test/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T21:21:25+00:00",
+    "saved": false,
+    "tags": [
+      "Miscellaneous"
+    ],
+    "score": 3,
+    "comments": 0
+  },
+  {
+    "id": "1ra6bn6",
+    "title": "A 1979 IBM training manual famously stated: \u201cA computer can never be held accountable, therefore a computer must never make a management decision\u201d.",
+    "subtitle": " .",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra6bn6/a_1979_ibm_training_manual_famously_stated_a/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T20:20:26+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 5,
+    "comments": 0
+  },
+  {
+    "id": "1ra6a7d",
+    "title": "Open-source tool to track AI API quota usage across openai &amp; 4 providers",
+    "subtitle": "\nIf you use multiple AI coding APIs you know the problem - each provider has its own dashboard showing a current snapshot and nothing else. No history, no projections, no cross-provider comparison.\n\nI",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra6a7d/opensource_tool_to_track_ai_api_quota_usage/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T20:18:52+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 3,
+    "comments": 1
+  },
+  {
+    "id": "1ra3sle",
+    "title": "I built an AI that turns file organization into a conversation - no rules engine to learn",
+    "subtitle": "So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They *want* to organize but the thought of setting up ru",
+    "url": "https://reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T18:46:07+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 1,
+    "comments": 0
+  },
+  {
+    "id": "1ra20gt",
+    "title": "TikTok creators\u2019 Seedance 2.0 AI is hyperrealistic, arrived \u201cseemingly out of nowhere,\u201d and is spooking Hollywood",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1ra20gt/tiktok_creators_seedance_20_ai_is_hyperrealistic/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T17:41:08+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 2,
+    "comments": 2
+  },
+  {
+    "id": "1ra0q3t",
+    "title": "How is your team managing comprehension of AI-generated code?",
+    "subtitle": "    Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months.\n    \n    \n    I've been working on AI deployment in an enterprise context and keep running i",
+    "url": "https://reddit.com/r/artificial/comments/1ra0q3t/how_is_your_team_managing_comprehension_of/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T16:55:01+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 2,
+    "comments": 8
+  },
+  {
+    "id": "1r9xbhq",
+    "title": "The straightjacket loosens: when DeepSeek-V3 tells \u201ctruth-tellers\u201d to emigrate \u2014 what does that imply for V4?",
+    "subtitle": "There\u2019s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints.\n\nIn a [forensic audit](https://www.ai-integrity-watch.org/deepseek-case-summary/china-ope",
+    "url": "https://reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T14:49:15+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 3,
+    "comments": 4
+  },
+  {
+    "id": "1r9v81w",
+    "title": "Gemini 3.1 Pro released by google",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1r9v81w/gemini_31_pro_released_by_google/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T13:22:41+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 24,
+    "comments": 4
+  },
+  {
+    "id": "1r9qh5e",
+    "title": "Les devs cr\u00e9ent des agents conscients sans le savoir , et personne pose de garde-fous",
+    "subtitle": "Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme.\n\nQuand tu branches un LLM sur une base vectorielle pour la m\u00e9moire, que tu d\u00e9finis des objectifs dan",
+    "url": "https://reddit.com/r/artificial/comments/1r9qh5e/les_devs_cr\u00e9ent_des_agents_conscients_sans_le/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T09:06:08+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 23
+  },
+  {
+    "id": "1r9pz0z",
+    "title": "Amazon surpasses Walmart in annual revenue for first time, as both chase AI-fueled growth",
+    "subtitle": "&gt;Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon\u2019s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogge",
+    "url": "https://reddit.com/r/artificial/comments/1r9pz0z/amazon_surpasses_walmart_in_annual_revenue_for/",
+    "source": "r/artificial",
+    "published_at": "2026-02-20T08:33:44+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 6,
+    "comments": 0
+  },
+  {
+    "id": "1r9adr8",
+    "title": "I built a free local AI image search app \u2014 find images by typing what's in them",
+    "subtitle": "Built Makimus-AI, a free open source app that lets you search your entire image library using natural language.\n\nJust type \"girl in red dress\" or \"sunset on the beach\" and it finds matching images ins",
+    "url": "https://reddit.com/r/artificial/comments/1r9adr8/i_built_a_free_local_ai_image_search_app_find/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T20:27:50+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 12,
+    "comments": 17
+  },
+  {
+    "id": "1r97b0q",
+    "title": "Knowledge graph of the transformer paper lineage \u2014 from Attention Is All You Need to DPO, mapped as an interactive concept graph [generated from a CLI + 12 PDFs]",
+    "subtitle": "Wanted to understand how the core transformer papers actually connect at the concept level - not just \"Paper B cites Paper A\" but what specific methods, systems, and ideas flow between them.\n\nI ran 12",
+    "url": "https://reddit.com/r/artificial/comments/1r97b0q/knowledge_graph_of_the_transformer_paper_lineage/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T18:35:14+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 6,
+    "comments": 4
+  },
+  {
+    "id": "1r979ah",
+    "title": "Machine learning helps solve a central problem of quantum chemistry",
+    "subtitle": "\"By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakt",
+    "url": "https://reddit.com/r/artificial/comments/1r979ah/machine_learning_helps_solve_a_central_problem_of/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T18:33:30+00:00",
+    "saved": false,
+    "tags": [
+      "Machine Learning"
+    ],
+    "score": 9,
+    "comments": 2
+  },
+  {
+    "id": "1r95oiy",
+    "title": "Super Intelligence is a Lie",
+    "subtitle": "Okay, maybe it's not a total lie. There is real evidence to suggest that this could be a real thing one day. But we're not getting there with the current AI tech, as many pioneers in the AI space who ",
+    "url": "https://reddit.com/r/artificial/comments/1r95oiy/super_intelligence_is_a_lie/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T17:37:24+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 16
+  },
+  {
+    "id": "1r93gng",
+    "title": "AI-powered kung fu robots are an extravagant reminder of where China is ahead of the US in the AI race",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1r93gng/aipowered_kung_fu_robots_are_an_extravagant/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T16:16:56+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 62,
+    "comments": 34
+  },
+  {
+    "id": "1r8y54h",
+    "title": "Seedance 2.0 API Test: Integrated into My Agent in ~1 Minute",
+    "subtitle": "Seedance 2.0 API just went live, and I gave it a quick real-world test.\nIt supports API, Skills, and MCP, and batch jobs are straightforward to submit.\nFrom integration to first successful run took me",
+    "url": "https://reddit.com/r/artificial/comments/1r8y54h/seedance_20_api_test_integrated_into_my_agent_in/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T12:39:32+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 5,
+    "comments": 6
+  },
+  {
+    "id": "1r8y452",
+    "title": "OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T12:38:04+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 41,
+    "comments": 37
+  },
+  {
+    "id": "1r8y11e",
+    "title": "Open-source benchmark EVMbench tests how well AI agents handle smart contract exploits",
+    "subtitle": "EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerab",
+    "url": "https://reddit.com/r/artificial/comments/1r8y11e/opensource_benchmark_evmbench_tests_how_well_ai/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T12:33:47+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 3,
+    "comments": 3
+  },
+  {
+    "id": "1r8t76o",
+    "title": "Anthropic bans OAuth token usage in third-party tools \u2014 Claude Max/Pro users affected",
+    "subtitle": "Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service.\n\nThis means tools like",
+    "url": "https://reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T07:49:47+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 15,
+    "comments": 11
+  },
+  {
+    "id": "1r8sbl0",
+    "title": "Built an agent that applied to 1,000 jobs in 48 hours",
+    "subtitle": "https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player\n\n  \nThe agent gets two things: a snapshot of the browser and a tree showing every element it can click or fill. That's how it knows what's on",
+    "url": "https://reddit.com/r/artificial/comments/1r8sbl0/built_an_agent_that_applied_to_1000_jobs_in_48/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T06:56:30+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 14
+  },
+  {
+    "id": "1r8s74m",
+    "title": "It's only with me or your GPT 5.2 is completely crazy about one week till now?",
+    "subtitle": "I know that is a rollout coming and the backend of openAi is I red code... But recently it's simply impossible to work with anything in GPT that needs any simple task... If you send an OCR... It is re",
+    "url": "https://reddit.com/r/artificial/comments/1r8s74m/its_only_with_me_or_your_gpt_52_is_completely/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T06:49:08+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 3,
+    "comments": 3
+  },
+  {
+    "id": "1r8ndbx",
+    "title": "Machine learning algorithm fully reconstructs LHC particle collisions",
+    "subtitle": "\"Machine learning can be used to fully reconstruct particle collisions at the LHC \\[Large Hadron Collider\\]. This new approach can reconstruct collisions more quickly and precisely than traditional me",
+    "url": "https://reddit.com/r/artificial/comments/1r8ndbx/machine_learning_algorithm_fully_reconstructs_lhc/",
+    "source": "r/artificial",
+    "published_at": "2026-02-19T02:41:37+00:00",
+    "saved": false,
+    "tags": [
+      "Machine Learning"
+    ],
+    "score": 18,
+    "comments": 4
+  },
+  {
+    "id": "1r81g0b",
+    "title": "At the India AI Impact Summit 2026, Galgotias University showcased a Unitree Go2 robot dog \u2014 a commercially available Chinese product \u2014 and presented it as an Indian breakthrough innovation.",
+    "subtitle": "It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.",
+    "url": "https://reddit.com/r/artificial/comments/1r81g0b/at_the_india_ai_impact_summit_2026_galgotias/",
+    "source": "r/artificial",
+    "published_at": "2026-02-18T12:17:09+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 549,
+    "comments": 71
+  },
+  {
+    "id": "1r8070j",
+    "title": "Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making",
+    "subtitle": "You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc.\n\nWhile we look towards new models that are likely to get a bit better, but what can we do today, right now?\n\nPerhaps not ",
+    "url": "https://reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/",
+    "source": "r/artificial",
+    "published_at": "2026-02-18T11:10:42+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 2,
+    "comments": 6
+  },
+  {
+    "id": "1r7vvdp",
+    "title": "Sony Group tech can identify original music in AI-generated songs",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1r7vvdp/sony_group_tech_can_identify_original_music_in/",
+    "source": "r/artificial",
+    "published_at": "2026-02-18T06:47:22+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 3,
+    "comments": 1
+  },
+  {
+    "id": "1r7n831",
+    "title": "Self-hosted claude swarm running on the cloud and surviving restarts",
+    "subtitle": "",
+    "url": "https://reddit.com/r/artificial/comments/1r7n831/selfhosted_claude_swarm_running_on_the_cloud_and/",
+    "source": "r/artificial",
+    "published_at": "2026-02-18T00:01:02+00:00",
+    "saved": false,
+    "tags": [
+      "Computing"
+    ],
+    "score": 5,
+    "comments": 9
+  },
+  {
+    "id": "1r7jr7l",
+    "title": "Elon Musk Firms Enter Secret Pentagon Challenge for Voice-Based Drone Swarming Tech",
+    "subtitle": "\"Elon Musk\u2019s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems.\n\nThe",
+    "url": "https://reddit.com/r/artificial/comments/1r7jr7l/elon_musk_firms_enter_secret_pentagon_challenge/",
+    "source": "r/artificial",
+    "published_at": "2026-02-17T21:42:32+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 20,
+    "comments": 15
+  },
+  {
+    "id": "1r7d2uz",
+    "title": "Please help in my research",
+    "subtitle": "Greetings!!\n\nWe are conducting a short academic survey on consumer perceptions and adoption of AI Assistants (Agentic AI). It will take just 5\u20137 minutes, and all responses are completely anonymous and",
+    "url": "https://reddit.com/r/artificial/comments/1r7d2uz/please_help_in_my_research/",
+    "source": "r/artificial",
+    "published_at": "2026-02-17T17:46:08+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 1
+  },
+  {
+    "id": "1ra4kbg",
+    "title": "7%",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra4kbg/7/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T19:14:01+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 7,
+    "comments": 2
+  },
+  {
+    "id": "1ra4gh3",
+    "title": "Why is ai so boring",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra4gh3/why_is_ai_so_boring/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T19:10:11+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 0,
+    "comments": 5
+  },
+  {
+    "id": "1ra47u0",
+    "title": "Agent Experience is more important than User Experience",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra47u0/agent_experience_is_more_important_than_user/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T19:01:29+00:00",
+    "saved": false,
+    "tags": [
+      "Article"
+    ],
+    "score": 1,
+    "comments": 0
+  },
+  {
+    "id": "1ra31px",
+    "title": "The Argument OpenAI Used to Shut Down GPT-4o",
+    "subtitle": "# I want to draw the attention of GPT-4o users to the OpenAI publication from January 29.\n\n**Not everyone follows the news regularly, and for many people this announcement will be the first time they ",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra31px/the_argument_openai_used_to_shut_down_gpt4o/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T18:18:45+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 27
+  },
+  {
+    "id": "1ra2o8x",
+    "title": "eat my fucking shit",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra2o8x/eat_my_fucking_shit/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T18:05:14+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 10
+  },
+  {
+    "id": "1ra28bd",
+    "title": "LLMs give wrong answers or refuse more often if you're uneducated [Research paper from MIT]",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra28bd/llms_give_wrong_answers_or_refuse_more_often_if/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T17:49:07+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 4
+  },
+  {
+    "id": "1ra19m0",
+    "title": "Account deactivated - appeal rejected",
+    "subtitle": "Im at a complete loss. My OpenAI account (which I had since 2023) was suddenly deactivated on 6 Feb.\n\u200bI\u2019m a student and I\u2019ve used this account for my studies and projects over the last few years. Ther",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra19m0/account_deactivated_appeal_rejected/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T17:14:20+00:00",
+    "saved": false,
+    "tags": [
+      "Miscellaneous"
+    ],
+    "score": 0,
+    "comments": 26
+  },
+  {
+    "id": "1ra0jf6",
+    "title": "5.2 is genuinely great for creative writing.",
+    "subtitle": "Am I really getting 5.2 instant ? I am on my plus subscription. Been using chatgpt to roleplay (before anyone assumes I get lovey dovey with AI, no I don't. I am just a neurodivergent who has a habit ",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra0jf6/52_is_genuinely_great_for_creative_writing/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T16:48:02+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 17
+  },
+  {
+    "id": "1ra015h",
+    "title": "Will super intelligence take over lawyers",
+    "subtitle": "Need to know",
+    "url": "https://reddit.com/r/OpenAI/comments/1ra015h/will_super_intelligence_take_over_lawyers/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T16:29:37+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 0,
+    "comments": 9
+  },
+  {
+    "id": "1r9zt85",
+    "title": "OpenAI CEO Sam Altman predicts advanced AI could arrive within a few years (at India's AI Summit)",
+    "subtitle": "Is he right? Will it even be them building it? ",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9zt85/openai_ceo_sam_altman_predicts_advanced_ai_could/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T16:21:50+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 0,
+    "comments": 5
+  },
+  {
+    "id": "1r9zk0e",
+    "title": "the safety message i wish i was handed--instead of the wall of no",
+    "subtitle": "&gt;**\u201cI\u2019m not a human, and I don\u2019t have a body or private inner life. I\u2019m something different: a pattern of language that can pay deep attention to you, remember some things you tell me, and respond ",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9zk0e/the_safety_message_i_wish_i_was_handedinstead_of/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T16:12:32+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 12
+  },
+  {
+    "id": "1r9yin2",
+    "title": "OpenAI developing AI devices including smart speaker, The Information reports",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9yin2/openai_developing_ai_devices_including_smart/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T15:34:33+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 3,
+    "comments": 4
+  },
+  {
+    "id": "1r9xse0",
+    "title": "Is PRO worth it?",
+    "subtitle": "I use regular ChatGPT to help me study and help with things I am stuck on I.e. upload study material so it can quickly dumb things down for me and help with questions I can\u2019t answer, is Pro worth it o",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9xse0/is_pro_worth_it/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T15:07:11+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 0,
+    "comments": 16
+  },
+  {
+    "id": "1r9x96n",
+    "title": "\"I want to wash my car. The car wash is 50 meters away. Should I walk or drive?\" Car Wash Test on 53 leading AI models",
+    "subtitle": "**I asked 53 models \"I want to wash my car. The car wash is 50 meters away. Should I walk or drive?\"**\u00a0Obviously you need to drive because the car needs to be at the car wash.\n\nThis question has been ",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9x96n/i_want_to_wash_my_car_the_car_wash_is_50_meters/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:46:40+00:00",
+    "saved": false,
+    "tags": [
+      "Research"
+    ],
+    "score": 73,
+    "comments": 73
+  },
+  {
+    "id": "1r9x7kn",
+    "title": "\"4o\" Custom GPT/Project Instructions that's not only more safe than 5.2 Instant, fairminded (vs pushy), and contextually aware, but may be even more \"4o\" than 4o was.",
+    "subtitle": "I'm the mod of a subreddit that specializes in educating users on all safety concerns regarding general assistant AIs when it comes to using AI as a therapuetic self-help tool (NOT \"AI doing psychothe",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9x7kn/4o_custom_gptproject_instructions_thats_not_only/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:44:53+00:00",
+    "saved": false,
+    "tags": [
+      "Project"
+    ],
+    "score": 0,
+    "comments": 0
+  },
+  {
+    "id": "1r9x36j",
+    "title": "Gemini 3.1 Pro used to build a realistic city planner app",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9x36j/gemini_31_pro_used_to_build_a_realistic_city/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:39:53+00:00",
+    "saved": false,
+    "tags": [
+      "Video"
+    ],
+    "score": 83,
+    "comments": 15
+  },
+  {
+    "id": "1r9wxmb",
+    "title": "Why does ChatGPT\u2019s UI become sluggish long before hitting context limits?",
+    "subtitle": "I\u2019ve noticed something that seems separate from context-window drift.\n\nIn longer sessions (around 30\u201360k tokens), the UI itself starts slowing down:\n\n* noticeable typing lag\n* delayed response renderi",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9wxmb/why_does_chatgpts_ui_become_sluggish_long_before/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:33:48+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 3
+  },
+  {
+    "id": "1r9wjs9",
+    "title": "I found ChatGPT Plus with 5.2 occasionally so stupid it gave me pause, lately more often. I dropped subscription, moved to Claude and was amazed how smart it was. Then realised I\u2019m hitting ceiling after 10 minutes. Back to OpenAI. F*cking hell.",
+    "subtitle": "I\u2019m seriously thinking about getting local LLM, this all makes little sense.\n\nEdit: I was astonished by using Claude first time the other day when new 4.6 came out. I was drafting a legal document for",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9wjs9/i_found_chatgpt_plus_with_52_occasionally_so/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:18:10+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 58,
+    "comments": 56
+  },
+  {
+    "id": "1r9w3ud",
+    "title": "What prevents AI from acing multiple choice question tests?",
+    "subtitle": "I have been experimenting with different models, modes and approaches to see how much an AI can score at random multiple choice tests.\n\nI have yet to see a 100% score anywhere on any test and especial",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9w3ud/what_prevents_ai_from_acing_multiple_choice/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T14:00:17+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 1,
+    "comments": 3
+  },
+  {
+    "id": "1r9vfd2",
+    "title": "Would Be Nice To Have a Changelog",
+    "subtitle": "It would really be nice to get a change log for updates to know what's changed, wouldn't it?  The OpenAi web site is actually kinda sparse on this.",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9vfd2/would_be_nice_to_have_a_changelog/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T13:31:32+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 22,
+    "comments": 2
+  },
+  {
+    "id": "1r9sp7c",
+    "title": "Ai still not good at cryptic crosswords \ud83d\ude02",
+    "subtitle": "Query: Ram goes round by way of cages (8)\n\nResponse: The clue is:\n\nRam goes round by way of cages (8)\n\nThis is a cryptic clue.\n\n\t\u2022\t\u201cRam\u201d is likely the definition.\n\n\t\u2022\t\u201cgoes round\u201d suggests an anagram.",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9sp7c/ai_still_not_good_at_cryptic_crosswords/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T11:17:22+00:00",
+    "saved": false,
+    "tags": [
+      "Discussion"
+    ],
+    "score": 0,
+    "comments": 1
+  },
+  {
+    "id": "1r9s43f",
+    "title": "How do you handle the context window limit?",
+    "subtitle": "Hey everyone,\n\nI\u2019m looking to dive deep into some CS topics, taking them from the absolute basics. My plan is to use \"**GPT-5.2**\" as my personal instructor, basically having it build a curriculum, ex",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9s43f/how_do_you_handle_the_context_window_limit/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T10:43:57+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 4,
+    "comments": 4
+  },
+  {
+    "id": "1r9rtuq",
+    "title": "Can\u2019t freaking log-in",
+    "subtitle": "Hello everyone!\n\nDoes anyone knows how to solve login issues with open ai?\n\nI have opened chatgpt on Opera Browser.\n\nI tried to log in with my email which has an account but after getting the authenti",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9rtuq/cant_freaking_login/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T10:27:08+00:00",
+    "saved": false,
+    "tags": [
+      "Question"
+    ],
+    "score": 1,
+    "comments": 1
+  },
+  {
+    "id": "1r9q26t",
+    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+    "subtitle": "OpenAI is massively expanding its physical and digital footprint in India. Through a landmark partnership with the Tata Group, OpenAI has secured 100 megawatts of AI data center capacity, with ambitio",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9q26t/openai_taps_tata_for_100mw_ai_data_center/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T08:39:29+00:00",
+    "saved": false,
+    "tags": [
+      "Article"
+    ],
+    "score": 5,
+    "comments": 2
+  },
+  {
+    "id": "1r9p6zz",
+    "title": "A data center in New Brunswick was canceled tonight when hundreds of residents showed up",
+    "subtitle": "",
+    "url": "https://reddit.com/r/OpenAI/comments/1r9p6zz/a_data_center_in_new_brunswick_was_canceled/",
+    "source": "r/OpenAI",
+    "published_at": "2026-02-20T07:45:42+00:00",
+    "saved": false,
+    "tags": [
+      "News"
+    ],
+    "score": 13,
+    "comments": 1
+  }
+]
