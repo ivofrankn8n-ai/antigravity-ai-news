@@ -1,63 +1,37 @@
-# Ignore system and user directories
-**/AppData/
-**/Contacts/
-**/Cookies/
-**/Desktop/
-**/Documents/
-**/Downloads/
-**/Favorites/
-**/Links/
-**/Local Settings/
-**/Music/
-**/My Documents/
-**/NetHood/
-**/OneDrive/
-**/Pictures/
-**/PrintHood/
-**/Recent/
-**/Saved Games/
-**/Searches/
-**/SendTo/
-**/Start Menu/
-**/Templates/
-**/Videos/
-**/ntuser.dat*
-**/ntuser.ini
-**/.bun/
-**/.cache/
-**/.config/
-**/.docker/
-**/.lmstudio-home-pointer
-**/.lmstudio/
-**/.local/
-**/.n8n/
-**/.ollama/
-**/.ssh/
-**/.vscode/
-**/npm-cache/
-**/package-lock.json
-**/package.json
-**/*.lnk
-
-# Project-specific generated files
+# Secrets - NEVER commit these
 .env
-tmp/
-naan/.env
-naan/tmp/
-naan/*.csv
-naan/*.json
-naan/*.png
-naan/*.log
-naan/__pycache__/
+.env.*
+config.js
+*.pem
+*.key
 
-# Python cache
+# Generated data files
+tmp/
+.tmp/
+*.csv
+articles.json
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.venv/
+venv/
 
-# IDE files
+# IDE
 .vscode/
 .idea/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
+
+# Build outputs
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Duplicate directories
+naan/
