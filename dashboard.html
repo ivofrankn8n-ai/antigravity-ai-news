@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Neural Feed</title>
+  <script src="env.js"></script>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     :root {
@@ -741,15 +742,15 @@ function filterArticles() {
       filterArticles();
     }
     
-    // Hard-coded configuration
+    // Configuration from environment variables (set in Vercel dashboard)
     const CONFIG = {
       supabase: {
-        url: 'SUPABASE_URL_PLACEHOLDER',
-        key: 'SUPABASE_KEY_PLACEHOLDER'
+        url: window.ENV?.SUPABASE_URL || '',
+        key: window.ENV?.SUPABASE_ANON_KEY || ''
       },
       ai: {
         provider: 'groq',
-        apiKey: 'PLACEHOLDER_KEY',
+        apiKey: window.ENV?.GROQ_API_KEY || '',
         model: 'llama-3.3-70b-versatile'
       }
     };

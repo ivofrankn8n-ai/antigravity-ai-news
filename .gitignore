@@ -4,6 +4,7 @@
 config.js
 *.pem
 *.key
+env.js
 
 # Generated data files
 tmp/
