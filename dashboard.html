@@ -742,7 +742,7 @@ function filterArticles() {
       filterArticles();
     }
     
-    // Configuration - uses env.js injected by Vercel build, or falls back to defaults
+    // Configuration - uses env.js injected by Vercel build
     const CONFIG = {
       supabase: {
         url: window.ENV?.SUPABASE_URL || 'SUPABASE_URL_PLACEHOLDER',
